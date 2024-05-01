@@ -1,7 +1,3 @@
-# Author: Nam Pham
-# Email: phuongnampha@umass.edu
-# Spire ID: 34362300
-
 def make_empty_board(nrows, ncols):
     s = []
     for i in range(nrows):
